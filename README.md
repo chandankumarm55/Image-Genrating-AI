@@ -3,7 +3,7 @@
 # Getting Started with Create React App
 
 <img src='/image.png' alt="Image 1" />
-<img src='/image2.png' alt="Image 2" />
+<img src='/image1.png' alt="Image 2" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
